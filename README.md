@@ -1,4 +1,4 @@
-# SQL Employees Queries 🚀
+# SQL Employees Queries 
 
 Este repositorio contiene preguntas y ejercicios de SQL basados en la base de datos oficial **employees** de MySQL.
 
