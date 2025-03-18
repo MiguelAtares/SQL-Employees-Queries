@@ -2,6 +2,9 @@
 
 Este bloque de consultas está enfocado en los conceptos básicos de SQL, incluyendo `SELECT`, `DISTINCT`, `WHERE`, `LIMIT`, `AND`, `OR`, `LIKE`, `IN`, `BETWEEN`, combinaciones de estos, y una primera introducción a `GROUP BY`, `JOIN` y subconsultas.
 
+📢 Tienes las consultas bien explicadas en mi canal de youtube: 
+    🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)  
+    
 ## 1️⃣ Muestra los nombres y apellidos de todos los empleados.
 
 ## 2️⃣ Lista los nombres de los departamentos sin repetir valores.
