@@ -2,6 +2,9 @@
 
 Este repositorio contiene preguntas y ejercicios de SQL basados en la base de datos oficial **employees** de MySQL.
 
+📢 Tienes las consultas bien explicadas en mi canal de youtube: 
+    🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)  
+
 ## 📌 Contenido
 
 📁 **01_Consultas Basicas** → Consultas simples (SELECT, WHERE, LIMIT ORDER BY, GROUP BY)  
