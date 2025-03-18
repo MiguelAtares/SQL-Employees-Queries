@@ -1,6 +1,6 @@
 -- 📌 CONSULTAS BÁSICAS - BASE DE DATOS employees. 
 -- 📢 Tienes las consultas bien explicadas en mi canal de youtube: 
-    -- 🔗 [@DataAnalystAtares](https://www.youtube.com/@DataAnalystAtares)  
+    -- 🔗https://www.youtube.com/@DataAnalystAtares
 -- Archivo con las respuestas SQL listas para ejecución
 
 -- 1️⃣ Muestra los nombres y apellidos de todos los empleados.
